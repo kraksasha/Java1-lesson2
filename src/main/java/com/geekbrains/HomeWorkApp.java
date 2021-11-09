@@ -7,6 +7,7 @@ public class HomeWorkApp {
         System.out.println(pozitiveOrNegativeB(1));
         printString("Himaaan",4);
         System.out.println(leapOrNo(2008));
+
     }
 
     public static boolean sumToDiapazone(int a,int b){
